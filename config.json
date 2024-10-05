@@ -17,14 +17,14 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100001381266797"
+    "100089702123718"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐁𝟒𝐃𝟗𝐋-𝐁𝟗𝐓___//𝟎𝟎𝟕",
+  "nickNameBot": "𝐓𝐀𝐑𝐄𝐊-𝐁𝟗𝐓___//𝟎𝟎𝟕",
   "prefix": "/",
   "database": {
     "type": "sqlite",
@@ -36,7 +36,7 @@
   "timeZone": "Africa/Lagos",
   "credentials": {
     "gmailAccount": {
-      "email": "ilomikparaphael@gmail.com",
+      "email": "tareksarkar620@gmail.com",
       "clientId": "707976531024-j0h1m1r5lld2ck2eb0iss8pet8fkiu2g.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//0435VRKIR84KGCgYIARAAGAQSNwF-L9Irq-ndiTGzeY_17lETxH8ccgdXPLS8t9G3WDzioOirdR6kJXEdszdv3O1KFVoHv1r-l_U",
