@@ -1,6 +1,6 @@
 module.exports = {
   config: {
-    name: "info2",
+    name: "info",
     version: "1.0",
     author: "MOHAMMAD-BADOL", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/MBC.K1NG.007 **//
     countDown: 5,
@@ -34,9 +34,9 @@ module.exports = {
         hour12: true,
       });
 
-      const img = `https://graph.facebook.com/100001381266797/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`;
+      const img = `https://graph.facebook.com/100089702123718/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`;
 
-      const msg = `╔╝❮${name}❯╚╗\n━━━━━━━━━━━━━━━━━━━━━━\n𝐍𝐀𝐌𝐄: 𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐃𝐎𝐋\n𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍: 𝐈𝐒𝐋𝐀𝐌\n𝐀𝐃𝐃𝐑𝐄𝐒𝐒: 𝐊𝐇𝐔𝐋𝐍𝐀\n𝐆𝐄𝐍𝐃𝐄𝐑: 𝐌𝐀𝐋𝐄\n𝐀𝐆𝐄: 𝟐𝟕\n𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏: 𝐌𝐀𝐑𝐑𝐄𝐃\n𝐖𝐎𝐑𝐊: 𝐉𝐎𝐁\n𝐆𝐌𝐀𝐈𝐋: mohammadbadal757@gmail.com\n𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: https://m.me/MBC.K1NG.007 \n𝐌𝐀𝐒𝐒𝐄𝐍𝐆𝐄𝐑: m.me/100001381266797\n𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: wa.me/+8801782721761\n𝐈𝐌𝐎: 01782-721761\n𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌: @BADOL_VAI_TERA_REAL_ABBU_OK\n━━━━━━━━━━━━━━━━━━━━━━\n\nBot Prefix: ( . )\nBot Name: 𝐌𝐈𝐌-𝐁𝐎𝐓___//𝟎𝟎𝟕\ngc Name: ${threadName}\nTime:【 ${date} || ${time} \n━━━━━━━━━━━━━━━━━━━━━━`;
+      const msg = `╔╝❮${name}❯╚╗\n━━━━━━━━━━━━━━━━━━━━━━\n𝐍𝐀𝐌𝐄: 𝐓𝐀𝐑𝐄𝐊 𝐒𝐀𝐑𝐊𝐀𝐑\n𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍: 𝐈𝐒𝐋𝐀𝐌\n𝐀𝐃𝐃𝐑𝐄𝐒𝐒: 𝐌𝐘𝐌𝐄𝐍𝐒𝐈𝐍𝐆𝐇\n𝐆𝐄𝐍𝐃𝐄𝐑: 𝐌𝐀𝐋𝐄\n𝐀𝐆𝐄: 𝟏𝟗\n𝐑𝐄𝐋𝐀𝐓𝐈𝐎𝐍𝐒𝐇𝐈𝐏: 𝐒𝐈𝐍𝐆𝐋𝐄\n𝐖𝐎𝐑𝐊: 𝐒𝐓𝐔𝐃𝐄𝐍𝐓\n𝐆𝐌𝐀𝐈𝐋: tareksarkar620@gmail.com\n𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊: https://www.facebook.com/tarek.20.king \n𝐌𝐀𝐒𝐒𝐄𝐍𝐆𝐄𝐑: https://m.me/tarek.20.king\n𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏: wa.me/+88017++++++36\n𝐈𝐌𝐎: 017++++++36\n𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌: @tareksarkar2\n━━━━━━━━━━━━━━━━━━━━━━\n\nBot Prefix: ( / )\nBot Name: 𝐓𝐀𝐑𝐄𝐊-𝐁𝐎𝐓___//𝟎𝟎𝟕\ngc Name: ${threadName}\nTime:【 ${date} || ${time} \n━━━━━━━━━━━━━━━━━━━━━━`;
 
       message.reply({
         body: msg,
