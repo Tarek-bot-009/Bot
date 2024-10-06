@@ -3,7 +3,7 @@ const axios = require("axios");
 const path = require("path");
 const { getPrefix } = global.utils;
 const { commands, aliases } = global.GoatBot;
-const doNotDelete = "𝐁𝟒𝐃𝟗𝐋-𝐁𝟗𝐓___//𝟎𝟎𝟕";
+const doNotDelete = "𝐓𝐀𝐑𝐄𝐊-𝐁𝟗𝐓___//𝟎𝟎𝟕";
 
 function formatFont(text) {
   const fontMapping = {
@@ -15,7 +15,7 @@ function formatFont(text) {
 
 module.exports = {
   config: {
-    name: "help9",
+    name: "help",
     version: "1.18",
     author: "MOHAMMAD-BADOL", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/MBC.K1NG.007 **//
     countDown: 5,
@@ -40,7 +40,7 @@ module.exports = {
 
     if (args.length === 0) {
       const categories = {};
-      let msg = `❀━━━━━━━━━━━━━━❀\n  💙 【 𝐁𝟒𝐃𝟗𝐋-𝐁𝟗𝐓___//𝟎𝟎𝟕 】💙 \n❀━━━━━━━━━━━━━━❀\n`;
+      let msg = `❀━━━━━━━━━━━━━━❀\n  💙 【 𝐓𝐀𝐑𝐄𝐊-𝐁𝟗𝐓___//𝟎𝟎𝟕 】💙 \n❀━━━━━━━━━━━━━━❀\n`;
 
       for (const [name, value] of commands) {
         if (value.config.role > role) continue;
