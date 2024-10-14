@@ -14,7 +14,7 @@ module.exports.config = {
 
 	usages: "[bn] [Text]",
 
-	countDowns: 5,
+	countDowns: 2,
 
 	dependencies: {
 
